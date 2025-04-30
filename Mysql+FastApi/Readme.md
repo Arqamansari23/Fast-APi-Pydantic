@@ -7,12 +7,19 @@ This is a simple CRUD (Create, Read, Update, Delete) project using FastAPI, MySQ
 # 📁 Project Folder Structure
 
 MysqlFastApi/
-│
-├── database.py       # Sets up MySQL database connection using SQLAlchemy
-├── models.py         # Defines database models (tables)
-├── schemas.py        # Defines request and response models using Pydantic
-├── crud.py           # Contains the core CRUD logic
-├── main.py           # Initializes FastAPI app and API routes
+
+   │
+
+   ├── database.py       # Sets up MySQL database connection using SQLAlchemy
+
+   ├── models.py         # Defines database models (tables)
+
+   ├── schemas.py        # Defines request and response models using Pydantic
+
+   ├── crud.py           # Contains the core CRUD logic
+
+   ├── main.py           # Initializes FastAPI app and API routes
+
 
 
 
