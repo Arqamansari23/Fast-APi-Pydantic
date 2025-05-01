@@ -8,3 +8,4 @@ aiomysql     # For MySQL; comment/remove if not using it
 aiosqlite    # For SQLite; comment/remove if not using it
 sqlalchemy
 pymysql       # For MySQL; comment/remove if not using it
+mangum
