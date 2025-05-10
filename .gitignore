@@ -6,6 +6,15 @@ artifacts/*
 # C extensions
 *.so
 
+
+
+Classification Simple Dockarized Fast Api App With data validation/classification-faastapi-app-simple/
+
+Classification Simple Dockarized Fast Api App With data validation/app/__pycache__/
+
+
+
+
 # Distribution / packaging
 .Python
 build/

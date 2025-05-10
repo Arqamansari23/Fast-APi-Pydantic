@@ -1,0 +1,15 @@
+artifact
+demo
+env
+venv
+logs
+infrastructure
+docs
+sensor.egg-info
+LICENSE
+README.md
+notebooks
+scripts
+classification-fastapi-app-simple/
+Dockerfile
+app/_pycache_
