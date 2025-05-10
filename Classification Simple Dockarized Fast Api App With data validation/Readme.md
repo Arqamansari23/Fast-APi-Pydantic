@@ -12,16 +12,17 @@ This project is a simple **Machine Learning Classification API** built with **Fa
 
 classification-faastapi-app-simple/
 
-│
+
+
 ├── app/
 
-│   ├── main.py # Entry point of the FastAPI app
+    ├── main.py # Entry point of the FastAPI app
 
-|   |──data_validation.py     # To validate the data passed in URL Endpoint
+    |──data_validation.py     # To validate the data passed in URL Endpoint
 
-|   |──model_prediction.py    # To load the model and make Predictions 
+    |──model_prediction.py    # To load the model and make Predictions 
 
-|   |──0__init__.py  # For making App as package 
+    |──0__init__.py  # For making App as package 
 
 
 ├── model/
